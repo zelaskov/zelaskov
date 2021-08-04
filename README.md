@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @zelaskov
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in devops.
+- 🌱 I’m currently learning k8s, terraform.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelaskov)](https://github.com/anuraghazra/github-readme-stats)
 
